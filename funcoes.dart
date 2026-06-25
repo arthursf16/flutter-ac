@@ -8,4 +8,4 @@ String obterCategoria(double total) {
   } else {
     return "Cliente Platinum";
   }
-}
+} // FUNCAO CATEGRIA
